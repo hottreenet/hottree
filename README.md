@@ -1,1 +1,1 @@
-# net.hottree.template
+# net.hottree.template - silnik szablonów
